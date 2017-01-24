@@ -1,0 +1,21 @@
+table {
+  background-color: yellow;
+  height: 500px;
+  width: 500px;
+  /*border-style: solid;
+  border-color: black;
+  border-width: thick;*/
+}
+td {
+  color: blue;
+  text-align: center;
+  border-color: black;
+
+}
+tr {
+  border-style: solid;
+  border-color: black;
+}
+table, td, tr {
+  border: 1px solid black;
+}

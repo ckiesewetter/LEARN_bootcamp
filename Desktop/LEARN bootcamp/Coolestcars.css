@@ -1,0 +1,85 @@
+html {
+  background-image: url("http://luxurylaunches.com/wp-content/uploads/2014/08/adriano-raeli-ferrari-6.jpg");background-position:top;
+}
+
+h1 {
+    color: blue;
+    font-size: 40;
+    font-family: cursive;
+    font-weight: 300;
+}
+h2 {
+    color: green;
+    font-size: 40;
+    font-family: cursive;
+    font-weight: 400;
+}
+nav {
+    color: red;
+    text-align: center;
+    font-weight: 400;
+    }
+
+nav a:hover {
+color: grey;
+}
+
+nav a:visited {
+  color: red;
+}
+
+p {
+  background-color:clear;
+  font-family: cursive;
+  font-size:16pt;
+}
+
+table {
+  color: orange;
+
+}
+ul,li {
+  color: red;
+
+}
+
+th {
+  color: blue;
+}
+p::first-letter {
+  font-size:26pt;
+}
+
+td {
+  color: red;
+}
+#img_ferrari{
+  float: right;
+  margin: 20px;
+  margin-left: 20px;
+}
+#img_corvette{
+  margin: 20px;
+  margin-right: 20px;
+  float: left;
+
+}
+#img_camaro{
+  margin: 20px;
+  margin-left: 20px;
+  float:right;
+}
+#Ferrari{
+  text-align: right;
+  margin-right: 70px;
+}
+
+#Corvette{
+  clear:both;
+}
+#Camaro{
+  clear: both;
+  text-align: right;
+  margin-right: 70px;
+
+}
